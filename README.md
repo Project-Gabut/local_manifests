@@ -7,7 +7,7 @@ Required patches for IMS: https://gerrit.pixelexperience.org/q/topic:%22mediatek
 
 # Grab Local Manifest
 ```bash
-curl -o .repo/local_manifests/local_manifests.xml https://raw.githubusercontent.com/Himemoria/local_manifests/master/twelve.xml --create-dirs
+curl -o .repo/local_manifests/local_manifests.xml https://raw.githubusercontent.com/Project-Gabut/local_manifests/master/twelve.xml --create-dirs
 ```
 
 # Sync
